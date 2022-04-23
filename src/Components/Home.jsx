@@ -1,5 +1,11 @@
 import { HiArrowCircleRight } from 'react-icons/hi'
 import {Link} from 'react-scroll'
+{/*import React, { useCallback, useMemo, useRef } from "react";
+import { extend, Canvas, useFrame, useThree } from "@react-three/fiber";
+import { OrbitControls } from "@react-three/drei";
+import { Color, PMREMGenerator, Quaternion, Vector3 } from "three";
+import { RoomEnvironment } from "three/examples/jsm/environments/RoomEnvironment.js";
+import Raymarcher from "three-raymarcher";*/}
 
 const Home = () => {
   return (
