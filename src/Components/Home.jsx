@@ -14,7 +14,7 @@ const Home = () => {
         <p  className='text-2xl text-yellow-400'>I'm</p>
         <h1 className='text-4xl sm:text-7xl font-bold text-[#ccd6f6]'>Yubraj Nag</h1>
         <h2 className='text=3xl sm:text-7xl font-bold text-[#8892b0]'>A Developer</h2>
-        <p className='text-[#ccd6f6] py-4 max-w-[700px]'>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eligendi nihil, aliquid eius odio quae blanditiis dolorum quaerat facere. Deserunt consectetur nesciunt ex. Iusto dolore architecto nobis quasi quibusdam repellat!</p>
+        <p className='text-[#ccd6f6] py-4 max-w-[700px]'>Hello Everyone, this is my personalized portfolio website. Here you can find all about me, what are the technologies I like to work on, some of my projects and to look around and share your opinion. So have a look! </p>
         <div>
           <button className='text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-yellow-500'><Link to="work" smooth={true} offset={50} duration={500}>
             Check out my works
